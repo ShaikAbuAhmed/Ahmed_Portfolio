@@ -171,8 +171,8 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 550px;
-  width: 550px;
+  height: 400px;
+  width: 400px;
   margin: auto 0;
 }
 
@@ -309,8 +309,8 @@ section {
 }
 
 .section__pic-container {
-  height: 550px;
-  width: 550px;
+  height: 400px;
+  width: 400px;
   margin: auto 0;
 }
 
@@ -365,9 +365,9 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 1rem;
-  width: 80%;
-  height: 80%;
+  border-radius: 2rem;
+  width: 90%;
+  height: 90%;
 }
 
 .project-title {
